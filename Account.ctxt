@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Account
+comment1.params=name\ password
+comment1.target=Account(java.lang.String,\ int)
+comment2.params=name\ password\ posts
+comment2.target=Account(java.lang.String,\ int,\ java.util.ArrayList)
+comment3.params=
+comment3.target=void\ main()
+comment4.params=content
+comment4.target=void\ post(java.lang.String)
+numComments=5

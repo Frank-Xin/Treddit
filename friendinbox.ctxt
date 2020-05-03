@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=friendinbox
+comment1.params=username
+comment1.target=void\ viewfriends(java.lang.String)
+comment2.params=username
+comment2.target=void\ requestfriend(java.lang.String)
+comment3.params=username
+comment3.target=void\ checkinbox(java.lang.String)
+numComments=4
